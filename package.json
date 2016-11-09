@@ -17,7 +17,7 @@
   "config": {},
   "dependencies": {
     "babel-core": "^6.0.0",
-    "babel-jest": "^6.0.1",
+    "babel-jest": "^17.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.1.18",
     "babel-preset-react": "^6.1.2",
     "babel-plugin-syntax-async-functions": "^6.1.4",
@@ -26,9 +26,9 @@
     "bl": "^1.0.0",
     "download-file-sync": "^1.0.3",
     "express": "^4.13.3",
-    "flow-bin": "^0.18.1",
-    "github": "^0.2.4",
-    "jest-cli": "^0.7.1",
+    "flow-bin": "^0.34.0",
+    "github": "^6.0.3",
+    "jest-cli": "^17.0.0",
     "minimatch": "^3.0.0"
   }
 }
